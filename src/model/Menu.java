@@ -20,6 +20,7 @@ public class Menu {
 		System.out.println("q- wyjscie");
 		
 		
+		
 		String wybor;
 		
 		do {
